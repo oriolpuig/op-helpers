@@ -1,5 +1,5 @@
 module.exports = {
-    shitMessage = (str) => {
+    shitMessage: (str) => {
         return `💩${str}💩`;
     }
 }
