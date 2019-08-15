@@ -11,5 +11,6 @@
     "npm"
   ],
   "author": "Oriol Puig",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/oriolpuig/op-helpers"
 }
